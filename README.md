@@ -1,0 +1,1 @@
+When you run a program or command, UAC may prompt you to confirm if you want to allow the program to make changes to your computer. The RunAsInvoker attribute can be used to specify that a program should run with the same privilege level as the calling process.
